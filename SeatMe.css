@@ -16,9 +16,7 @@
 
 body{
 		
-	/*background-color:  white;*/
-     background-color: rgb(66, 244, 241);
-     /*background-image: url("seat.jpg");*/
+     background-image: url("seat.jpg");*/
     
 
 }
@@ -32,9 +30,5 @@ body{
 }
 
 
-/*.form{
-	padding-left: 650px;
-}
-*/
 
 

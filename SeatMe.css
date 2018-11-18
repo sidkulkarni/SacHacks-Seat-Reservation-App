@@ -1,0 +1,55 @@
+.navbar-inverse .navbar-nav li a {
+    color: rgb(100,255,218);
+
+}
+
+.navbar-inverse .navbar-brand {
+    color: rgb(100,255,218);
+
+
+}
+
+
+
+body{
+		
+     background-image: url("seat.jpg");
+    
+
+}
+
+
+.heading{
+	color: white;
+	font-family: Calibre, system, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", "Segoe UI", Arial, serif;
+	padding-left: 550px;
+	font-size: 100px;
+}
+
+
+.paragraph{
+	color: white;
+	font-family: Calibre, system, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", "Segoe UI", Arial, serif;
+	font-size: 20px;
+	line-height: 25px;
+
+}
+
+.header{ 
+	color: (0, 38, 153);
+	font-weight: 100px;
+}
+
+
+.textbox{
+	color: white;
+	font-family: Calibre, system, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", "Segoe UI", Arial, serif;
+	font-size: 20px;
+	line-height: 25px;
+	text-align: center;
+}
+
+
+/*.back{
+	background-image: url("smoke.jpg");
+}*/

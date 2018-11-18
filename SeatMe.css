@@ -29,6 +29,8 @@ body{
 
 
 .faceBook{
-	padding-left: center;	
-	
+/* 	padding-left: center;	 */
+	margin-left:auto;
+	margin-right:auto;
+
 }

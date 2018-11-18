@@ -1,0 +1,40 @@
+.navbar-inverse .navbar-nav li a {
+    color: rgb(100,255,218);
+
+}
+
+.navbar-inverse .navbar-brand {
+    color: rgb(100,255,218);
+
+
+}
+
+
+/*#h2{
+	color: white;
+}*/
+
+body{
+		
+	/*background-color:  white;*/
+     background-color: rgb(66, 244, 241);
+     /*background-image: url("seat.jpg");*/
+    
+
+}
+
+
+.heading{
+	color: white;
+	font-family: Calibre, system, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", "Segoe UI", Arial, serif;
+	padding-left: 550px;
+	font-size: 100px;
+}
+
+
+/*.form{
+	padding-left: 650px;
+}
+*/
+
+

@@ -1,4 +1,4 @@
-# SeatMe Seat Reservation System Web Application
+# SeatMe: Seat Reservation System Web Application
 
 Team Members: Viswaas Prabhunathan, Ajay Vincent, Ananye Aggarwal, Siddharth Kulkarni
 
